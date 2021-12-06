@@ -416,5 +416,5 @@ Export-Package: .,
  org.jvnet.staxex,
  org.jvnet.staxex.util,
  org.postgresql
-Bundle-RequiredExecutionEnvironment: JavaSE-15
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Automatic-Module-Name: org.eclipse.emf.teneo.dependencies
